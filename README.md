@@ -34,7 +34,7 @@ The Packet Sniffer Tool is a basic Python-based network traffic analyzer. It cap
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/packet-sniffer-tool.git
+    git clone https://github.com/Hun33er/PRODIGY_WD_05/packet-sniffer-tool.git
     ```
 
 2. **Navigate to the project directory:**
